@@ -2,7 +2,7 @@
 /*
      Se require el paquete que contiene la clase Shape.
 */
-var nuevo = require("@alu0100785265/ull-shape-lucas");
+var nuevo = require("ull-shape-lucas-ivan-miguel-jairo");
 var Shape = nuevo.Shape;
 /**
  * Clase para representar un Cuadrado que es de tipo Shape.

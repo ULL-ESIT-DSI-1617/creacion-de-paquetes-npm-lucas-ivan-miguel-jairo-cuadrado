@@ -18,7 +18,7 @@
   "homepage": "https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-lucas-ivan-miguel-jairo-cuadrado#readme",
   
   "dependencies": {
-    "@alu0100785265/ull-shape-lucas": "^1.0.1",
+    "ull-shape-lucas-ivan-miguel-jairo": "^1.0.1",
     "gulp-shell": "^0.6.3",
     "mocha": "^2.3.3",
     "should": "^7.1.1"
