@@ -1,4 +1,4 @@
-var sh = require('ull-shape-lucas-ivan-miguel-jairo');
+var sh = require('@alu0100785265/ull-shape-lucas');
 var sh1 = require('ull-shape-cuadrado-lucas-ivan-miguel-jairo');
 
 
